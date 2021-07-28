@@ -1,16 +1,16 @@
 # Filmes
 Aplicativo que faz consulta a api de filmes https://www.omdbapi.com/
 
-# Pre requesitos
+# Pré-requisitos
 - Node (8.0 ou superior)
 
-# Installing
+# Instalação
 Para colocar o projeto em execução, siga estas etapas:
 - Crie uma pasta
 - Entre / navegue para essa pasta
-`` `
+``
 cd <folder-name>
-`` `
+``
 
 - Clone este repositório:
 `` `
