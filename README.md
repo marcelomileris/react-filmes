@@ -13,18 +13,18 @@ cd <folder-name>
 ``
 
 - Clone este repositório:
-`` `
+``
 git clone https://github.com/marcelomileris/react-filmes.git
-`` `
+``
 
 - Instale todas as dependências do projeto:
-`` `
+``
 yarn ou npm install
-`` `
+``
 - Feito isso, execute o projeto:
-`` `
+``
 npm start ou yarn start
-`` `
+``
 
 # Feito com 
 - Javascript
